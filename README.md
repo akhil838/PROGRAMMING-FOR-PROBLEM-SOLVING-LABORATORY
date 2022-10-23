@@ -43,3 +43,32 @@
 |4| Write a C program that does the following:
 ||It should first create a binary file and store 10 integers, where the file name and 10 values are given in the command line. (hint: convert the strings using atoi function)<br />Now the program asks for an index and a value from the user and the value at that index should be changed to the new value in the file. (hint: use fseek function)<br />The program should then read all 10 values and print them back|code|program|
 |5|Write a C program to merge two files into a third file (i.e., the contents of the first file followed by those of the second are put in the third file)|code|program|
+
+|S.No|STRINGS|||
+|---|-------------------------------------------------------------------|--------|-----------|
+|1|Write a C program to convert a Roman numeral ranging from I to L to its decimal equivalent.|code|program|
+|2|Write a C program that converts a number ranging from 1 to 50 to Roman equivalent |code|program|
+|3|Write a C program that uses functions to perform the following operations: | ||
+||a. To insert a sub-string into a given main string from a given position. |code|program|
+||b. To delete n Characters from a given position in a given string. |code|program|
+|4|Write a C program to determine if the given string is a palindrome or not (Spelled same in both directions with or without a meaning like madam, civic, noon, abcba, etc.)|code|program|
+|5|Write a C program that displays the position of a character ch in the string S or – 1 if S doesn‘t contain ch|code|program|
+|6|Write a C program to count the lines, words and characters in a given text. |code|program|
+
+|S.No|MISCELLANEOUS|||
+|---|-------------------------------------------------------------------|--------|-----------|
+|1|Write a menu driven C program that allows a user to enter n numbers and then choose between finding the smallest, largest, sum, or average. The menu and all the choices are to be functions.<br/> Use a switch statement to determine what action to take. Display an error message if an invalid choice is entered|code|program|
+|2|Write a C program to construct a pyramid of numbers as follows: <br/>1‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ * ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 1‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 1‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ * <br/>1 2‎ ‎ ‎ ‎ ‎ * * ‎ ‎ ‎ ‎ ‎ ‎ 2 3 ‎ ‎ ‎ ‎ 2 2 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ * * <br/>1 2 3 ‎ * * * ‎ ‎ ‎ 4 5 6 ‎ ‎ 3 3 3 ‎ ‎ ‎ ‎ ‎ ‎ ‎ * * *  <br/> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎4 4 4 4 ‎ ‎ ‎ ‎ * *<br/> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ * <br/> |code|program|
+ 
+|S.No|SORTING AND SEARCHING ||| 
+|---|-------------------------------------------------------------------|--------|-----------|
+|1|Write a C program that uses non recursive function to search for a Key value in a given list of integers using linear search method. |code|program|
+|2|Write a C program that uses non recursive function to search for a Key value in a given sorted list of integers using binary search method. |code|program|
+|3|Write a C program that implements the Bubble sort method to sort a given list of integers in ascending order|code|program|
+|4|Write a C program that sorts the given array of integers using selection sort in descending order|code|program|
+|5|Write a C program that sorts the given array of integers using insertion sort in ascending order|code|program|
+|6|Write a C program that sorts a given array of names|code|program|
+
+ 
+
+
