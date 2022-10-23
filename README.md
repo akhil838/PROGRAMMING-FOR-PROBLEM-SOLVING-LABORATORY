@@ -1,8 +1,45 @@
 ## PROGRAMMING-FOR-PROBLEM-SOLVING-LABORATORY
-|s.no|SIMPLE NUMERIC PROBLEMS|||
+|S.No|SIMPLE NUMERIC PROBLEMS|||
 |---|-------------------------------------------------------------------|--------|-----------|
 | 1 | Write a Program for finding the max and min from the three numbers.| [code](Max-Min.c)   |   program |
 | 2 | Write the program for the simple, compound interest.               |  [code](Calc-interest.c)  | program |
 | 3 | Write a program that declares Class awarded for a given percentage of marks, where mark <40%= Failed, 40% to <60% = Second class, 60% to <70%=First class, >= 70% = Distinction. Read percentage from standard input. | [code](Percentage-Class.c) | program |
 | 4 | Write a program that prints a multiplication table for a given number and the number of rows in the table. | [code](Multiplication-table.c) | program |
 | 5 | Write a program that shows the binary equivalent of a given positive number between 0 to 255.| code | program |
+
+|S.No| EXPRESSION EVALUATION|||
+|---|-------------------------------------------------------------------|--------|-----------|
+|1|A building has 10 floors with a floor height of 3 meters each. A ball is dropped from the top of the building. Find the time taken by the ball to reach each floor. (Use the formula s = ut+(1/2)at^2 where u and a are the initial velocity in m/sec (= 0) and acceleration in m/sec^2 (= 9.8 m/s^2)).| code | program |
+|2| Write a C program, which takes two integer operands and one operator from the user, performs the operation and then prints the result. (Consider the operators +,-,*, /, % and use Switch Statement)| code | program |
+|3|Write a program that finds if a given number is a prime number.|code|program|
+|4|Write a C program to find the sum of individual digits of a positive integer and test given number is palindrome|code|program|
+|5| A Fibonacci sequence is defined as follows: the first and second terms in the sequence are 0 and 1. Subsequent terms are found by adding the preceding two terms in the sequence. Write a C program to generate the first n terms of the sequence. |code|program|
+|6|Write a C program to generate all the prime numbers between 1 and n, where n is a value supplied by the user|code|program|
+|7|Write a C program to find the roots of a Quadratic equation.|code|program|
+|8|Write a C program to calculate the following, where x is a fractional value. 1-x/2 +x^2/4-x^3/6|code|program|
+|9|Write a C program to read in two numbers, x and n, and then compute the sum of this geometric progression: 1+x+x^2+x^3+………….+x^n. For example: if n is 3 and x is 5, then the program computes 1+5+25+125.|code|program|
+
+|S.No|Arrays, Pointers and Functions|||
+|---|-------------------------------------------------------------------|--------|-----------|
+|1|Write a C program to find the minimum, maximum and average in an array of integers.|code|program|
+|2|Write a function to compute mean, variance, Standard Deviation, sorting of n elements in a single dimension array. |code|program|
+|3|Write a C program that uses functions to perform the following: |||
+||a. Addition of Two Matrices |code|program|
+||b. Multiplication of Two Matrices |code|program|
+||c. Transpose of a matrix with memory dynamically allocated for the new matrix as row and column counts may not be the same|code|program|
+|4|Write C programs that use both recursive and non-recursive functions |||
+||a. To find the factorial of a given integer. |code|program|
+||b. To find the GCD (greatest common divisor) of two given integers.|code|program|
+||c. To find x^n |code|program|
+|5|Write a program for reading elements using a pointer into an array and display the values using the array.|code|program|
+|6|Write a program for display values reverse order from an array using a pointer.|code|program|
+|7|Write a program through a pointer variable to sum of n elements from an array.|code|program|
+
+|S.No|FILES|||
+|---|-------------------------------------------------------------------|--------|-----------|
+|1| Write a C program to display the contents of a file to standard output device.|code|program|
+|2| Write a C program which copies one file to another, replacing all lowercase characters with their uppercase equivalents.|code|program|
+|3| Write a C program to count the number of times a character occurs in a text file. The file name and the character are supplied as command line arguments.|code|program|
+|4| Write a C program that does the following:
+||It should first create a binary file and store 10 integers, where the file name and 10 values are given in the command line. (hint: convert the strings using atoi function)<br />Now the program asks for an index and a value from the user and the value at that index should be changed to the new value in the file. (hint: use fseek function)<br />The program should then read all 10 values and print them back|code|program|
+|5|Write a C program to merge two files into a third file (i.e., the contents of the first file followed by those of the second are put in the third file)|code|program|
