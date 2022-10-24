@@ -3,7 +3,7 @@
 int main() {
     int x,y;
     char a;
-    //Ignore error
+    //Ignore Warning
     printf("Enter Operator (+, -, *, /,%): ");
     scanf("%c",&a);
     printf("Enter two integers: ");
