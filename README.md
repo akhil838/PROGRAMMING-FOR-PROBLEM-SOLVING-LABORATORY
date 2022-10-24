@@ -10,7 +10,7 @@
 |S.No| EXPRESSION EVALUATION|||
 |---|-------------------------------------------------------------------|--------|-----------|
 |1|A building has 10 floors with a floor height of 3 meters each. A ball is dropped from the top of the building. Find the time taken by the ball to reach each floor. (Use the formula s = ut+(1/2)at^2 where u and a are the initial velocity in m/sec (= 0) and acceleration in m/sec^2 (= 9.8 m/s^2)).| code | program |
-|2| Write a C program, which takes two integer operands and one operator from the user, performs the operation and then prints the result. (Consider the operators +,-,*, /, % and use Switch Statement)| code | program |
+|2| Write a C program, which takes two integer operands and one operator from the user, performs the operation and then prints the result. (Consider the operators +,-,*, /, % and use Switch Statement)| [code](Simple-calc_2terms.c) | program |
 |3|Write a program that finds if a given number is a prime number.|[code](Prime_number.c)|program|
 |4|Write a C program to find the sum of individual digits of a positive integer and test given number is palindrome|code|program|
 |5| A Fibonacci sequence is defined as follows: the first and second terms in the sequence are 0 and 1. Subsequent terms are found by adding the preceding two terms in the sequence. Write a C program to generate the first n terms of the sequence. |code|program|
