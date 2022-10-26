@@ -13,7 +13,7 @@
 |2| Write a C program, which takes two integer operands and one operator from the user, performs the operation and then prints the result. (Consider the operators +,-,*, /, % and use Switch Statement)| [code](Simple-calc_2terms.c) | program |
 |3|Write a program that finds if a given number is a prime number.|[code](Prime_number.c)|program|
 |4|Write a C program to find the sum of individual digits of a positive integer and test given number is palindrome|code|program|
-|5| A Fibonacci sequence is defined as follows: the first and second terms in the sequence are 0 and 1. Subsequent terms are found by adding the preceding two terms in the sequence. Write a C program to generate the first n terms of the sequence. |code|program|
+|5| A Fibonacci sequence is defined as follows: the first and second terms in the sequence are 0 and 1. Subsequent terms are found by adding the preceding two terms in the sequence. Write a C program to generate the first n terms of the sequence. |[code](Series-1.c)|program|
 |6|Write a C program to generate all the prime numbers between 1 and n, where n is a value supplied by the user|[code](Prime_number-1.c)|program|
 |7|Write a C program to find the roots of a Quadratic equation.|[code](Quad-root.c)|program|
 |8|Write a C program to calculate the following, where x is a fractional value. 1-x/2 +x^2/4-x^3/6|code|program|
