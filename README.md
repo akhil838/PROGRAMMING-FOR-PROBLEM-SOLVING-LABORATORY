@@ -21,7 +21,7 @@
 
 |S.No|Arrays, Pointers and Functions|||
 |---|-------------------------------------------------------------------|--------|-----------|
-|1|Write a C program to find the minimum, maximum and average in an array of integers.|code|program|
+|1|Write a C program to find the minimum, maximum and average in an array of integers.|[code](Arr_int.c)|program|
 |2|Write a function to compute mean, variance, Standard Deviation, sorting of n elements in a single dimension array. |code|program|
 |3|Write a C program that uses functions to perform the following: |||
 ||a. Addition of Two Matrices |code|program|
