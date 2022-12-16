@@ -24,7 +24,7 @@
 |1|Write a C program to find the minimum, maximum and average in an array of integers.|[code](Arr_int.c)|program|
 |2|Write a function to compute mean, variance, Standard Deviation, sorting of n elements in a single dimension array. |code|program|
 |3|Write a C program that uses functions to perform the following: |||
-||a. Addition of Two Matrices |code|program|
+||a. Addition of Two Matrices |[code](Mat_Sum.c)|program|
 ||b. Multiplication of Two Matrices |code|program|
 ||c. Transpose of a matrix with memory dynamically allocated for the new matrix as row and column counts may not be the same|code|program|
 |4|Write C programs that use both recursive and non-recursive functions |||
